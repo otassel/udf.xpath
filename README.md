@@ -1,5 +1,5 @@
 # udf.xpath
-XPath 1.0 BigQuery Python UDF
+XPath 1.0 [BigQuery Python UDF](https://cloud.google.com/bigquery/docs/user-defined-functions-python?hl=en)
 
 ```sql
 CREATE OR REPLACE FUNCTION `udf.xpath`(doc STRING, xpath STRING)
